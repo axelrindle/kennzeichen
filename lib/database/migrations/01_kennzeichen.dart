@@ -8,7 +8,7 @@ class Migration01GermanList extends Migration {
 
   @override
   Future<void> up(Transaction txn) async {
-    final json = await rootBundle.loadString("data-scraper/data/raw.json");
+    final json = await rootBundle.loadString("assets/raw/raw.json");
     final data = jsonDecode(json) as List<dynamic>;
 
     await txn.execute("""

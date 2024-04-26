@@ -10,11 +10,50 @@ env:
   RETENTION_DAYS: 7
 
 jobs:
+  scrape:
+    name: Scrape Data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - uses: actions/cache/restore@v4
+        id: cache
+        with:
+          path: data-scraper/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('data-scraper/bun.lockb') }}
+
+      - name: Install Dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        working-directory: data-scraper
+        run: bun install --frozen-lockfile
+
+      - uses: actions/cache/save@v4
+        if: steps.cache.outputs.cache-hit != 'true'
+        with:
+          path: data-scraper/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('data-scraper/bun.lockb') }}
+
+      - name: Run scraper
+        working-directory: data-scraper
+        run: bun run .
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: scraped
+          path: data-scraper/data/raw.json
+          retention-days: 1
+
   build-apk:
     name: Build Android App
     runs-on: ubuntu-latest
     outputs:
       run-id: ${{ github.run_id }}
+    needs:
+      - scrape
     steps:
       - uses: actions/checkout@v4
 
@@ -32,6 +71,11 @@ jobs:
           channel: 'stable'
           flutter-version: ${{ env.FLUTTER_VERSION }}
           cache: true
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: scraped
+          path: assets/raw
 
       - name: Build debug apk
         run: flutter build apk --debug
