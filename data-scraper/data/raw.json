@@ -1,0 +1,4352 @@
+[
+    {
+        "Kuerzel": "A",
+        "Ort": "Augsburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AA",
+        "Ort": "Aalen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AB",
+        "Ort": "Aschaffenburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ABG",
+        "Ort": "Altenburg",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ABI",
+        "Ort": "Anhalt-Bitterfeld",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AC",
+        "Ort": "Aachen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AE",
+        "Ort": "Auerbach",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AH",
+        "Ort": "Ahaus",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AIB",
+        "Ort": "Aibling",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AIC",
+        "Ort": "Aichach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AK",
+        "Ort": "Altenkirchen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ALF",
+        "Ort": "Alfeld",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ALZ",
+        "Ort": "Alzenau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AM",
+        "Ort": "Amberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AN",
+        "Ort": "Ansbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ANA",
+        "Ort": "Annaberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ANG",
+        "Ort": "Angermünde",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ANK",
+        "Ort": "Anklam",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AÖ",
+        "Ort": "Altötting",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AP",
+        "Ort": "Apolda",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "APD",
+        "Ort": "Apolda",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ARN",
+        "Ort": "Arnstadt",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ART",
+        "Ort": "Artern",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AS",
+        "Ort": "Amberg-Sulzbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ASL",
+        "Ort": "Aschersleben",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ASZ",
+        "Ort": "Aue-Schwarzenberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AT",
+        "Ort": "Altentreptow",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AU",
+        "Ort": "Aue",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AUR",
+        "Ort": "Aurich",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AW",
+        "Ort": "Ahrweiler",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AZ",
+        "Ort": "Alzey",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "AZE",
+        "Ort": "Anhalt-Zerbst",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "B",
+        "Ort": "Berlin",
+        "Bundesland": null,
+        "Speziell": "Hauptstadt"
+    },
+    {
+        "Kuerzel": "BA",
+        "Ort": "Bamberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BAD",
+        "Ort": "Baden-Baden",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BAR",
+        "Ort": "Barnim",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BB",
+        "Ort": "Böblingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BBG",
+        "Ort": "Bernburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BBL",
+        "Ort": "Brandenburgische-Landesregierung",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BC",
+        "Ort": "Biberach",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BCH",
+        "Ort": "Buchen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BD",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "BundesDienst"
+    },
+    {
+        "Kuerzel": "BE",
+        "Ort": "Beckum",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BED",
+        "Ort": "Brand-Erbisdorf",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BER",
+        "Ort": "Bernau",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BF",
+        "Ort": "Burgsteinfurt",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BGD",
+        "Ort": "Berchtesgaden",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BGL",
+        "Ort": "Berchtesgadener-Land",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BH",
+        "Ort": "Bühl",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BI",
+        "Ort": "Bielefeld",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BID",
+        "Ort": "Biedenkopf",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BIN",
+        "Ort": "Bingen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BIR",
+        "Ort": "Birkenfeld",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BIT",
+        "Ort": "Bitburg",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BIW",
+        "Ort": "Bischofswerda",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BK",
+        "Ort": "Backnang",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BKS",
+        "Ort": "Bernkastel",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BL",
+        "Ort": "Balingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BLB",
+        "Ort": "Berleburg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BLK",
+        "Ort": "Burgenlandkreis",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BM",
+        "Ort": "Bergheim",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BN",
+        "Ort": "Bonn",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BNA",
+        "Ort": "Borna",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BO",
+        "Ort": "Bochum",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BÖ",
+        "Ort": "Börde",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BOG",
+        "Ort": "Bogen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BOH",
+        "Ort": "Bocholt",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BOR",
+        "Ort": "Borken",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BOT",
+        "Ort": "Bottrop",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BP",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "BundesPolizei"
+    },
+    {
+        "Kuerzel": "BRA",
+        "Ort": "Brake",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BRB",
+        "Ort": "Brandenburg",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BRG",
+        "Ort": "Burg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BRK",
+        "Ort": "Brückenau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BRL",
+        "Ort": "Braunlage",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BRV",
+        "Ort": "Bremervörde",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BS",
+        "Ort": "Braunschweig",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BSB",
+        "Ort": "Bersenbrück",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BSK",
+        "Ort": "Beeskow",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BT",
+        "Ort": "Bayreuth",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BTF",
+        "Ort": "Bitterfeld",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BÜD",
+        "Ort": "Büdingen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BUL",
+        "Ort": "Burglengenfeld",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BÜR",
+        "Ort": "Büren",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BÜS",
+        "Ort": "Büsingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BÜZ",
+        "Ort": "Bützow",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BW",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Bundes-Wasserstraßen- und Schifffahrtsverwaltung"
+    },
+    {
+        "Kuerzel": "BWL",
+        "Ort": "Baden-Württembergischer-Landtag",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BYL",
+        "Ort": "Bayerischer-Landtag",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "BZ",
+        "Ort": "Bautzen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "C",
+        "Ort": "Chemnitz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CA",
+        "Ort": "Calau",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CAS",
+        "Ort": "Castrop",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CB",
+        "Ort": "Cottbus",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CE",
+        "Ort": "Celle",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CHA",
+        "Ort": "Cham",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CLP",
+        "Ort": "Cloppenburg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CLZ",
+        "Ort": "Clausthal-Zellerfeld",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CO",
+        "Ort": "Coburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "COC",
+        "Ort": "Cochem",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "COE",
+        "Ort": "Coesfeld",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CR",
+        "Ort": "Crailsheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CUX",
+        "Ort": "Cuxhaven",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "CW",
+        "Ort": "Calw",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "D",
+        "Ort": "Düsseldorf",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DA",
+        "Ort": "Darmstadt",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DAH",
+        "Ort": "Dachau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DAN",
+        "Ort": "Dannenberg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DAU",
+        "Ort": "Daun",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DBR",
+        "Ort": "Doberan",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DD",
+        "Ort": "Dresden",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DE",
+        "Ort": "Dessau",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DEG",
+        "Ort": "Deggendorf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DEL",
+        "Ort": "Delmenhorst",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DGF",
+        "Ort": "Dingolfing",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DH",
+        "Ort": "Diepholz",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DI",
+        "Ort": "Dieburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DIL",
+        "Ort": "Dillenburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DIN",
+        "Ort": "Dinslaken",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DIZ",
+        "Ort": "Diez",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DKB",
+        "Ort": "Dinkelsbühl",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DL",
+        "Ort": "Döbeln",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DLG",
+        "Ort": "Dillingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DM",
+        "Ort": "Demmin",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DN",
+        "Ort": "Düren",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DO",
+        "Ort": "Dortmund",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DON",
+        "Ort": "Donauwörth",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DU",
+        "Ort": "Duisburg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DUD",
+        "Ort": "Duderstadt",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DÜW",
+        "Ort": "Dürkheim-An-Der-Weinstraße",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DW",
+        "Ort": "Dippoldiswalde",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "DZ",
+        "Ort": "Delitzsch",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "E",
+        "Ort": "Essen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EA",
+        "Ort": "Eisenach",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EB",
+        "Ort": "Eilenburg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EBE",
+        "Ort": "Ebersberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EBN",
+        "Ort": "Ebern",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EBS",
+        "Ort": "Ebermannstadt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ECK",
+        "Ort": "Eckernförde",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ED",
+        "Ort": "Erding",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EE",
+        "Ort": "Elbe-Elster",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EF",
+        "Ort": "Erfurt",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EG",
+        "Ort": "Eggenfelden",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EH",
+        "Ort": "Eisenhüttenstadt",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EI",
+        "Ort": "Eichstätt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EIC",
+        "Ort": "Eichsfeld",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EIL",
+        "Ort": "Eisleben",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EIN",
+        "Ort": "Einbeck",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EIS",
+        "Ort": "Eisenberg",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EL",
+        "Ort": "Emsland",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EM",
+        "Ort": "Emmendingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EMD",
+        "Ort": "Emden",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EMS",
+        "Ort": "Ems",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EN",
+        "Ort": "Ennepe",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ER",
+        "Ort": "Erlangen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ERB",
+        "Ort": "Erbach",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ERH",
+        "Ort": "Erlangen-Höchstadt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ERK",
+        "Ort": "Erkelenz",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ERZ",
+        "Ort": "Erzgebirge",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ES",
+        "Ort": "Esslingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ESB",
+        "Ort": "Eschenbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ESW",
+        "Ort": "Eschwege",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EU",
+        "Ort": "Euskirchen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "EW",
+        "Ort": "Eberswalde",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "F",
+        "Ort": "Frankfurt",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FB",
+        "Ort": "Friedberg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FD",
+        "Ort": "Fulda",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FDB",
+        "Ort": "Friedberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FDS",
+        "Ort": "Freudenstadt",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FEU",
+        "Ort": "Feuchtwangen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FF",
+        "Ort": "Frankfurt",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FFB",
+        "Ort": "Fürstenfeldbruck",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FG",
+        "Ort": "Freiberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FI",
+        "Ort": "Finsterwalde",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FKB",
+        "Ort": "Frankenberg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FL",
+        "Ort": "Flensburg",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FLÖ",
+        "Ort": "Flöha",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FN",
+        "Ort": "Friedrichshafen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FO",
+        "Ort": "Forchheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FOR",
+        "Ort": "Forst",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FR",
+        "Ort": "Freiburg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FRG",
+        "Ort": "Freyung-Grafenau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FRI",
+        "Ort": "Friesland",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FRW",
+        "Ort": "Freienwalde",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FS",
+        "Ort": "Freising",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FT",
+        "Ort": "Frankenthal",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FTL",
+        "Ort": "Freital",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FÜ",
+        "Ort": "Fürth",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FÜS",
+        "Ort": "Füssen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FW",
+        "Ort": "Fürstenwalde",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "FZ",
+        "Ort": "Fritzlar",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "G",
+        "Ort": "Gera",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GA",
+        "Ort": "Gardelegen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GAN",
+        "Ort": "Gandersheim",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GAP",
+        "Ort": "Garmisch-Partenkirchen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GC",
+        "Ort": "Glauchau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GD",
+        "Ort": "Gmünd",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GDB",
+        "Ort": "Gadebusch",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GE",
+        "Ort": "Gelsenkirchen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GEL",
+        "Ort": "Geldern",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GEO",
+        "Ort": "Gerolzhofen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GER",
+        "Ort": "Germersheim",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GF",
+        "Ort": "Gifhorn",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GG",
+        "Ort": "Groß-Gerau",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GHA",
+        "Ort": "Geithain",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GHC",
+        "Ort": "Gräfenhainichen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GI",
+        "Ort": "Gießen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GK",
+        "Ort": "Geilenkirchen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GL",
+        "Ort": "Gladbach",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GLA",
+        "Ort": "Gladbeck",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GM",
+        "Ort": "Gummersbach",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GMN",
+        "Ort": "Grimmen",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GN",
+        "Ort": "Gelnhausen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GNT",
+        "Ort": "Genthin",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GÖ",
+        "Ort": "Göttingen",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GOA",
+        "Ort": "Goar",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GOH",
+        "Ort": "Goarshausen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GP",
+        "Ort": "Göppingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GR",
+        "Ort": "Görlitz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GRA",
+        "Ort": "Grafenau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GRH",
+        "Ort": "Großenhain",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GRI",
+        "Ort": "Griesbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GRM",
+        "Ort": "Grimma",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GRZ",
+        "Ort": "Greiz",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GS",
+        "Ort": "Goslar",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GT",
+        "Ort": "Gütersloh",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GTH",
+        "Ort": "Gotha",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GÜ",
+        "Ort": "Güstrow",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GUB",
+        "Ort": "Guben",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GUN",
+        "Ort": "Gunzenhausen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GV",
+        "Ort": "Grevenbroich",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GVM",
+        "Ort": "Grevesmühlen",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GW",
+        "Ort": "Greifswald",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "GZ",
+        "Ort": "Günzburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "H",
+        "Ort": "Hannover",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HA",
+        "Ort": "Hagen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HAB",
+        "Ort": "Hammelburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HAL",
+        "Ort": "Halle",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HAM",
+        "Ort": "Hamm",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HAS",
+        "Ort": "Hassfurt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HB",
+        "Ort": "Hansestadt-Bremen",
+        "Bundesland": "Bremen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HBN",
+        "Ort": "Hildburghausen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HBS",
+        "Ort": "Halberstadt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HC",
+        "Ort": "Hainichen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HCH",
+        "Ort": "Hechingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HD",
+        "Ort": "Heidelberg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HDH",
+        "Ort": "Heidenheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HDL",
+        "Ort": "Haldensleben",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HE",
+        "Ort": "Helmstedt",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HEB",
+        "Ort": "Hersbruck",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HEF",
+        "Ort": "Hersfeld",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HEI",
+        "Ort": "Heide",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HEL",
+        "Ort": "Hessischer-Landtag",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HER",
+        "Ort": "Herne",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HET",
+        "Ort": "Hettstedt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HF",
+        "Ort": "Herford",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HG",
+        "Ort": "Homburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HGN",
+        "Ort": "Hagenow",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HGW",
+        "Ort": "Hansestadt-Greifswald",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HH",
+        "Ort": "Hansestadt-Hamburg",
+        "Bundesland": "Hamburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HHM",
+        "Ort": "Hohenmölsen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HI",
+        "Ort": "Hildesheim",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HIG",
+        "Ort": "Heiligenstadt",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HIP",
+        "Ort": "Hilpoltstein",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HK",
+        "Ort": "Heidekreis",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HL",
+        "Ort": "Hansestadt-Lübeck",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HM",
+        "Ort": "Hameln",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HMÜ",
+        "Ort": "Hann-Münden",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HN",
+        "Ort": "Heilbronn",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HO",
+        "Ort": "Hof",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOG",
+        "Ort": "Hofgeismar",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOH",
+        "Ort": "Hofheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOL",
+        "Ort": "Holzminden",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOM",
+        "Ort": "Homburg",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOR",
+        "Ort": "Horb",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HÖS",
+        "Ort": "Höchstadt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HOT",
+        "Ort": "Hohenstein",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HP",
+        "Ort": "Heppenheim",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HR",
+        "Ort": "Homberg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HRO",
+        "Ort": "Hansestadt-Rostock",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HS",
+        "Ort": "Heinsberg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HSK",
+        "Ort": "Hochsauerlandkreis",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HST",
+        "Ort": "Hansestadt-Stralsund",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HU",
+        "Ort": "Hanau",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HV",
+        "Ort": "Havelberg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HVL",
+        "Ort": "Havelland",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HWI",
+        "Ort": "Hansestadt-Wismar",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HX",
+        "Ort": "Höxter",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HY",
+        "Ort": "Hoyerswerda",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "HZ",
+        "Ort": "Harz",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "IGB",
+        "Ort": "Ingbert",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "IK",
+        "Ort": "Ilm-Kreis",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "IL",
+        "Ort": "Ilmenau",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ILL",
+        "Ort": "Illertissen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "IN",
+        "Ort": "Ingolstadt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "IZ",
+        "Ort": "Itzehoe",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "J",
+        "Ort": "Jena",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "JE",
+        "Ort": "Jessen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "JL",
+        "Ort": "Jerichower-Land",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "JÜL",
+        "Ort": "Jülich",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "K",
+        "Ort": "Köln",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KA",
+        "Ort": "Karlsruhe",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KB",
+        "Ort": "Korbach",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KC",
+        "Ort": "Kronach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KE",
+        "Ort": "Kempten",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KEH",
+        "Ort": "Kelheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KEL",
+        "Ort": "Kehl",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KEM",
+        "Ort": "Kemnath",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KF",
+        "Ort": "Kaufbeuren",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KG",
+        "Ort": "Kissingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KH",
+        "Ort": "Kreuznach",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KI",
+        "Ort": "Kiel",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KIB",
+        "Ort": "Kirchheimbolanden",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KK",
+        "Ort": "Kempen-Krefeld",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KL",
+        "Ort": "Kaiserslautern",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KLE",
+        "Ort": "Kleve",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KLZ",
+        "Ort": "Klötze",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KM",
+        "Ort": "Kamenz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KN",
+        "Ort": "Konstanz",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KO",
+        "Ort": "Koblenz",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KÖN",
+        "Ort": "Königshofen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KÖT",
+        "Ort": "Köthen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KÖZ",
+        "Ort": "Kötzting",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KR",
+        "Ort": "Krefeld",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KRU",
+        "Ort": "Krumbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KS",
+        "Ort": "Kassel",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KT",
+        "Ort": "Kitzingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KU",
+        "Ort": "Kulmbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KÜN",
+        "Ort": "Künzelsau",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KUS",
+        "Ort": "Kusel",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KW",
+        "Ort": "Königs-Wusterhausen",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KY",
+        "Ort": "Kyritz",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "KYF",
+        "Ort": "Kyffhäuser",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "L",
+        "Ort": "Leipzig",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LA",
+        "Ort": "Landshut",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LAN",
+        "Ort": "Landau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LAU",
+        "Ort": "Lauf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LB",
+        "Ort": "Ludwigsburg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LBS",
+        "Ort": "Lobenstein",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LBZ",
+        "Ort": "Lübz",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LC",
+        "Ort": "Luckau",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LD",
+        "Ort": "Landau",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LDK",
+        "Ort": "Lahn-Dill-Kreis",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LDS",
+        "Ort": "Landkreis-Dahme-Spreewald",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LEO",
+        "Ort": "Leonberg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LER",
+        "Ort": "Leer",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LEV",
+        "Ort": "Leverkusen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LF",
+        "Ort": "Laufen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LG",
+        "Ort": "Lüneburg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LH",
+        "Ort": "Lüdinghausen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LI",
+        "Ort": "Lindau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LIB",
+        "Ort": "Liebenwerda",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LIF",
+        "Ort": "Lichtenfels",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LIP",
+        "Ort": "Lippe",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LL",
+        "Ort": "Landsberg-Am-Lech",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LM",
+        "Ort": "Limburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LN",
+        "Ort": "Lübben",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LÖ",
+        "Ort": "Lörrach",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LÖB",
+        "Ort": "Löbau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LOS",
+        "Ort": "Landkreis-Oder-Spre",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LP",
+        "Ort": "Lippstadt",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LR",
+        "Ort": "Lahr",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LRO",
+        "Ort": "Landkreis-Rostock",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LSA",
+        "Ort": "Land-Sachsen-Anhalt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LSN",
+        "Ort": "Landtag-Sachsen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LSZ",
+        "Ort": "Langensalza",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LU",
+        "Ort": "Ludwigshafen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LÜN",
+        "Ort": "Lünen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LUP",
+        "Ort": "Ludwigslust-Parchim",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "LWL",
+        "Ort": "Ludwigslust",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "M",
+        "Ort": "München",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MA",
+        "Ort": "Mannheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MAB",
+        "Ort": "Marienberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MAI",
+        "Ort": "Mainburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MAK",
+        "Ort": "Marktredwitz",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MAL",
+        "Ort": "Mallersdorf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MB",
+        "Ort": "Miesbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MC",
+        "Ort": "Malchin",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MD",
+        "Ort": "Magdeburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ME",
+        "Ort": "Mettmann",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MED",
+        "Ort": "Meldorf",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MEG",
+        "Ort": "Melsungen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MEI",
+        "Ort": "Meißen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MEK",
+        "Ort": "Mittlerer-Erzgebirgskreis",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MEL",
+        "Ort": "Melle",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MER",
+        "Ort": "Merseburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MET",
+        "Ort": "Mellrichstadt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MG",
+        "Ort": "Mönchengladbach",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MGH",
+        "Ort": "Mergentheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MGN",
+        "Ort": "Meiningen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MH",
+        "Ort": "Mülheim",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MHL",
+        "Ort": "Mühlhausen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MI",
+        "Ort": "Minden",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MIL",
+        "Ort": "Miltenberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MK",
+        "Ort": "Märkischer-Kreis",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MKK",
+        "Ort": "Main-Kinzig-Kreis",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ML",
+        "Ort": "Mansfelder-Land",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MM",
+        "Ort": "Memmingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MN",
+        "Ort": "Mindelheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MO",
+        "Ort": "Moers",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MOD",
+        "Ort": "Marktoberdorf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MOL",
+        "Ort": "Märkisch-Oderland",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MON",
+        "Ort": "Monschau",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MOS",
+        "Ort": "Mosbach",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MQ",
+        "Ort": "Merseburg-Querfurt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MR",
+        "Ort": "Marburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MS",
+        "Ort": "Münster",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MSE",
+        "Ort": "Mecklenburgische-Seenplatte",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MSH",
+        "Ort": "Mansfeld-Südharz",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MSP",
+        "Ort": "Main-Spessart",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MST",
+        "Ort": "Mecklenburg-Strelitz",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MTK",
+        "Ort": "Main-Taunus-Kreis",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MTL",
+        "Ort": "Muldental",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MÜ",
+        "Ort": "Mühldorf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MÜB",
+        "Ort": "Münchberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MÜL",
+        "Ort": "Mülheim-Baden",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MÜR",
+        "Ort": "Müritz",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MVL",
+        "Ort": "Mecklenburg-Vorpommerscher-Landtag",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MW",
+        "Ort": "Mittweida",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MY",
+        "Ort": "Mayen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MYK",
+        "Ort": "Mayen-Koblenz",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MZ",
+        "Ort": "Mainz",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "MZG",
+        "Ort": "Merzig",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "N",
+        "Ort": "Nürnberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NAB",
+        "Ort": "Nabburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NAI",
+        "Ort": "Naila",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NAU",
+        "Ort": "Nauen",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NB",
+        "Ort": "Neubrandenburg",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ND",
+        "Ort": "Neuburg-An-Der-Donau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NDH",
+        "Ort": "Nordhausen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NE",
+        "Ort": "Neuss",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEA",
+        "Ort": "Neustadt-An-Der-Aisch",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEB",
+        "Ort": "Nebra",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEC",
+        "Ort": "Neustadt-Bei-Coburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEN",
+        "Ort": "Neunburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NES",
+        "Ort": "Neustadt-An-Der-Saale",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEU",
+        "Ort": "Titisee-Neustadt",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NEW",
+        "Ort": "Neustadt-An-Der-Waldnaab",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NF",
+        "Ort": "Nordfriesland",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NH",
+        "Ort": "Neuhaus",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NI",
+        "Ort": "Nienburg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NK",
+        "Ort": "Neunkirchen",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NL",
+        "Ort": "Niedersächsischer-Landtag",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NM",
+        "Ort": "Neumarkt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NMB",
+        "Ort": "Naumburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NMS",
+        "Ort": "Neumünster",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NÖ",
+        "Ort": "Nördlingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NOH",
+        "Ort": "Nordhorn",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NOL",
+        "Ort": "Niederschlesische-Oberlausitz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NOM",
+        "Ort": "Northeim",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NOR",
+        "Ort": "Norden",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NP",
+        "Ort": "Neuruppin",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NR",
+        "Ort": "Neuwied-Am-Rhein",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NRW",
+        "Ort": "Nordrhein-Westfalen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NT",
+        "Ort": "Nürtingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NU",
+        "Ort": "Neu-Ulm",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NVP",
+        "Ort": "Nordvorpommern",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NW",
+        "Ort": "Neustadt-An-Der-Weinstraße",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NWM",
+        "Ort": "Nordwestmecklenburg",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NY",
+        "Ort": "Niesky",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "NZ",
+        "Ort": "Neustrelitz",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OA",
+        "Ort": "Oberallgäu",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OAL",
+        "Ort": "Ostallgäu",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OB",
+        "Ort": "Oberhausen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OBB",
+        "Ort": "Obernburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OBG",
+        "Ort": "Osterburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OC",
+        "Ort": "Oschersleben",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OCH",
+        "Ort": "Ochsenfurt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OD",
+        "Ort": "Oldesloe",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OE",
+        "Ort": "Olpe",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OF",
+        "Ort": "Offenbach",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OG",
+        "Ort": "Offenburg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OH",
+        "Ort": "Ostholstein",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OHA",
+        "Ort": "Osterode-Am-Harz",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ÖHR",
+        "Ort": "Öhringen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OHV",
+        "Ort": "Oberhavel",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OHZ",
+        "Ort": "Osterholz",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OK",
+        "Ort": "Ohrekreis",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OL",
+        "Ort": "Oldenburg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OP",
+        "Ort": "Opladen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OPR",
+        "Ort": "Ostprignitz-Ruppin",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OS",
+        "Ort": "Osnabrück",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OSL",
+        "Ort": "Oberspreewald-Lausitz",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OTW",
+        "Ort": "Ottweiler",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OVI",
+        "Ort": "Oberviechtach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OVL",
+        "Ort": "Obervogtland",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OVP",
+        "Ort": "Ostvorpommern",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "OZ",
+        "Ort": "Oschatz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "P",
+        "Ort": "Potsdam",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PA",
+        "Ort": "Passau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PAF",
+        "Ort": "Pfaffenhofen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PAN",
+        "Ort": "Pfarrkirchen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PAR",
+        "Ort": "Parsberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PB",
+        "Ort": "Paderborn",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PCH",
+        "Ort": "Parchim",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PE",
+        "Ort": "Peine",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PEG",
+        "Ort": "Pegnitz",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PF",
+        "Ort": "Pforzheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PI",
+        "Ort": "Pinneberg",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PIR",
+        "Ort": "Pirna",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PL",
+        "Ort": "Plauen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PLÖ",
+        "Ort": "Plön",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PM",
+        "Ort": "Potsdam-Mittelmark",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PN",
+        "Ort": "Pößneck",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PR",
+        "Ort": "Prignitz",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PRÜ",
+        "Ort": "Prüm",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PS",
+        "Ort": "Pirmasens",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PW",
+        "Ort": "Pasewalk",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "PZ",
+        "Ort": "Prenzlau",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "QFT",
+        "Ort": "Querfurt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "QLB",
+        "Ort": "Quedlinburg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "R",
+        "Ort": "Regensburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RA",
+        "Ort": "Württemberg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RC",
+        "Ort": "Reichenbach",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RD",
+        "Ort": "Rendsburg",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RDG",
+        "Ort": "Ribnitz-Damgarten",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RE",
+        "Ort": "Recklinghausen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "REG",
+        "Ort": "Regen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "REH",
+        "Ort": "Rehau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "REI",
+        "Ort": "Reichenhall",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RG",
+        "Ort": "Riesa-Großenhain",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RH",
+        "Ort": "Roth",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RI",
+        "Ort": "Rinteln",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RID",
+        "Ort": "Riedenburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RIE",
+        "Ort": "Riesa",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RL",
+        "Ort": "Rochlitz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RM",
+        "Ort": "Röbel-Müritz",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RN",
+        "Ort": "Rathenow",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RO",
+        "Ort": "Rosenheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROD",
+        "Ort": "Roding",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROF",
+        "Ort": "Rotenburg-An-Der-Fulda",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROK",
+        "Ort": "Rockenhausen",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROL",
+        "Ort": "Rottenburg-An-Der-Laaber",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROS",
+        "Ort": "Rostock",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROT",
+        "Ort": "Rothenburg-Ob-Der-Tauber",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ROW",
+        "Ort": "Rotenburg-Wümme",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RP",
+        "Ort": "Rhein-Pfalz",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RPL",
+        "Ort": "Rheinland-Pfälzischer-Landtag",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RS",
+        "Ort": "Remscheid",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RSL",
+        "Ort": "Rosslau",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RT",
+        "Ort": "Reutlingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RU",
+        "Ort": "Rudolstadt",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RÜD",
+        "Ort": "Rüdesheim",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RÜG",
+        "Ort": "Rügen",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RV",
+        "Ort": "Ravensburg",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RW",
+        "Ort": "Rottweil",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "RZ",
+        "Ort": "Ratzeburg",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "S",
+        "Ort": "Stuttgart",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SAB",
+        "Ort": "Saarburg",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SAD",
+        "Ort": "Schwandorf",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SAL",
+        "Ort": "Saarländischer-Landtag",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SAN",
+        "Ort": "Stadtsteinach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SAW",
+        "Ort": "Salzwedel",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SÄK",
+        "Ort": "Säckingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SB",
+        "Ort": "Saarbrücken",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SBG",
+        "Ort": "Strasburg",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SBK",
+        "Ort": "Schönebeck",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SC",
+        "Ort": "Schwabach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SCZ",
+        "Ort": "Schleiz",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SDH",
+        "Ort": "Sondershausen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SDL",
+        "Ort": "Stendal",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SDT",
+        "Ort": "Schwedt",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SE",
+        "Ort": "Segeberg",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SEB",
+        "Ort": "Sebnitz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SEE",
+        "Ort": "Seelow",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SEF",
+        "Ort": "Scheinfeld",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SEL",
+        "Ort": "Selb",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SFB",
+        "Ort": "Senftenberg",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SFT",
+        "Ort": "Staßfurt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SG",
+        "Ort": "Solingen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SGH",
+        "Ort": "Sangerhausen",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SH",
+        "Ort": "Schleswig-Holstein",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SHA",
+        "Ort": "Schwäbisch-Hall",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SHG",
+        "Ort": "Stadthagen",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SHK",
+        "Ort": "Saale-Holzland-Kreis",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SHL",
+        "Ort": "Suhl",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SI",
+        "Ort": "Siegen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SIG",
+        "Ort": "Sigmaringen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SIH",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Filmproduktion: aus dem Film \"Hanne\""
+    },
+    {
+        "Kuerzel": "SIM",
+        "Ort": "Simmern",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SK",
+        "Ort": "Saalekreis",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SL",
+        "Ort": "Schleswig",
+        "Bundesland": "Schleswig-Holstein",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLE",
+        "Ort": "Schleiden",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLF",
+        "Ort": "Saalfeld",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLG",
+        "Ort": "Saulgau",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLK",
+        "Ort": "Salzlandkreis",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLN",
+        "Ort": "Schmölln",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLS",
+        "Ort": "Saarlouis",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLÜ",
+        "Ort": "Schlüchtern",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SLZ",
+        "Ort": "Salzungen",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SM",
+        "Ort": "Schmalkalden",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SMÜ",
+        "Ort": "Schwabmünchen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SN",
+        "Ort": "Schwerin",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SO",
+        "Ort": "Soest",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SOB",
+        "Ort": "Schrobenhausen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SOG",
+        "Ort": "Schongau",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SOK",
+        "Ort": "Saale-Orla-Kreis",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SÖM",
+        "Ort": "Sömmerda",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SON",
+        "Ort": "Sonneberg",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SP",
+        "Ort": "Speyer",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SPB",
+        "Ort": "Spremberg",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SPN",
+        "Ort": "Spree-Neiße",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SR",
+        "Ort": "Straubing",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SRB",
+        "Ort": "Strausberg",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SRO",
+        "Ort": "Stadtroda",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ST",
+        "Ort": "Steinfurt",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STA",
+        "Ort": "Starnberg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STB",
+        "Ort": "Sternberg",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STD",
+        "Ort": "Stade",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STE",
+        "Ort": "Staffelstein",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STL",
+        "Ort": "Stollberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "STO",
+        "Ort": "Stockach",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SU",
+        "Ort": "Siegburg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SUL",
+        "Ort": "Sulzbach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SÜW",
+        "Ort": "Südliche-Weinstraße",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SW",
+        "Ort": "Schweinfurt",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SWA",
+        "Ort": "Schwalbach",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SY",
+        "Ort": "Syke",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SZ",
+        "Ort": "Salzgitter",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "SZB",
+        "Ort": "Schwarzenberg",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TBB",
+        "Ort": "Tauberbischofsheim",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TDO",
+        "Ort": "Torgau-Delitzsch-Oschatz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TE",
+        "Ort": "Tecklenburg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TET",
+        "Ort": "Teterow",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TF",
+        "Ort": "Teltow-Fläming",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TG",
+        "Ort": "Torgau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "THL",
+        "Ort": "Thüringer-Landtag",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "THW",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Technisches HilfsWerk"
+    },
+    {
+        "Kuerzel": "TIR",
+        "Ort": "Tirschenreuth",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TO",
+        "Ort": "Torgau-Oschatz",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TÖL",
+        "Ort": "Tölz",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TP",
+        "Ort": "Templin",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TR",
+        "Ort": "Trier",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TS",
+        "Ort": "Traunstein",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TT",
+        "Ort": "Tettnang",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TÜ",
+        "Ort": "Tübingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "TUT",
+        "Ort": "Tuttlingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UE",
+        "Ort": "Uelzen",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UEM",
+        "Ort": "Ueckermünde",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UFF",
+        "Ort": "Uffenheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UH",
+        "Ort": "Unstrut-Hainich",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UL",
+        "Ort": "Ulm",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UM",
+        "Ort": "Uckermark",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "UN",
+        "Ort": "Unna",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "USI",
+        "Ort": "Usingen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ÜB",
+        "Ort": "Überlingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "V",
+        "Ort": "Vogtland",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VAI",
+        "Ort": "Vaihingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VB",
+        "Ort": "Vogelsberg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VEC",
+        "Ort": "Vechta",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VER",
+        "Ort": "Verden",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VG",
+        "Ort": "Vorpommern-Greifswald",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VIB",
+        "Ort": "Vilsbiburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VIE",
+        "Ort": "Viersen",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VIT",
+        "Ort": "Viechtach",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VK",
+        "Ort": "Völklingen",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VOH",
+        "Ort": "Vohenstrauß",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VR",
+        "Ort": "Vorpommern-Rügen",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "VS",
+        "Ort": "Villingen-Schwenningen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "W",
+        "Ort": "Wuppertal",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WA",
+        "Ort": "Waldeck",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WAF",
+        "Ort": "Warendorf",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WAK",
+        "Ort": "Wartburgkreis",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WAN",
+        "Ort": "Wanne",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WAR",
+        "Ort": "Warburg",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WAT",
+        "Ort": "Wattenscheid",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WB",
+        "Ort": "Wittenberg",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WBS",
+        "Ort": "Worbis",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WDA",
+        "Ort": "Werdau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WE",
+        "Ort": "Weimar",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WEL",
+        "Ort": "Weilburg",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WEN",
+        "Ort": "Weiden",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WER",
+        "Ort": "Wertingen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WES",
+        "Ort": "Wesel",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WF",
+        "Ort": "Wolfenbüttel",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WG",
+        "Ort": "Wangen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WHV",
+        "Ort": "Wilhelmshaven",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WI",
+        "Ort": "Wiesbaden",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WIL",
+        "Ort": "Wittlich",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WIN",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Filmproduktion: aus der Serie \"Dark\""
+    },
+    {
+        "Kuerzel": "WIS",
+        "Ort": "Wismar",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WIT",
+        "Ort": "Witten",
+        "Bundesland": "Nordrhein-Westfalen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WIV",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Filmproduktion: aus dem Film \"Hanne\""
+    },
+    {
+        "Kuerzel": "WIZ",
+        "Ort": "Witzenhausen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WK",
+        "Ort": "Wittstock",
+        "Bundesland": "Brandenburg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WL",
+        "Ort": "Winsen-Luhe",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WLG",
+        "Ort": "Wolgast",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WM",
+        "Ort": "Weilheim",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WMS",
+        "Ort": "Wolmirstedt",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WN",
+        "Ort": "Waiblingen",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WND",
+        "Ort": "Wendel",
+        "Bundesland": "Saarland",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WO",
+        "Ort": "Worms",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WOB",
+        "Ort": "Wolfsburg",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WOH",
+        "Ort": "Wolfhagen",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WOL",
+        "Ort": "Wolfach",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WOR",
+        "Ort": "Wolfratshausen",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WOS",
+        "Ort": "Wolfstein",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WR",
+        "Ort": "Wernigerode",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WRN",
+        "Ort": "Waren",
+        "Bundesland": "Mecklenburg-Vorpommern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WS",
+        "Ort": "Wasserburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WSF",
+        "Ort": "Weissenfels",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WST",
+        "Ort": "Westerstede",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WSW",
+        "Ort": "Weisswasser",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WT",
+        "Ort": "Waldshut",
+        "Bundesland": "Baden-Württemberg",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WTL",
+        "Ort": "Wittlage",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WTM",
+        "Ort": "Wittmund",
+        "Bundesland": "Niedersachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WÜ",
+        "Ort": "Würzburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WUG",
+        "Ort": "Weißenburg",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WÜM",
+        "Ort": "Waldmünchen-Mit-Einem-Buchstabendreher",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WUN",
+        "Ort": "Wunsiedel",
+        "Bundesland": "Bayern",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WUR",
+        "Ort": "Wurzen",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WW",
+        "Ort": "Westerwald",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WZ",
+        "Ort": "Wetzlar",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "WZL",
+        "Ort": "Wanzleben",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "X",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Internationale Hauptquartiere der Nato mit Sitz in Deutschland"
+    },
+    {
+        "Kuerzel": "Y",
+        "Ort": null,
+        "Bundesland": null,
+        "Speziell": "Bundeswehr"
+    },
+    {
+        "Kuerzel": "Z",
+        "Ort": "Zwickau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZE",
+        "Ort": "Zerbst",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZEL",
+        "Ort": "Zell",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZI",
+        "Ort": "Zittau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZIG",
+        "Ort": "Ziegenhain",
+        "Bundesland": "Hessen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZP",
+        "Ort": "Zschopau",
+        "Bundesland": "Sachsen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZR",
+        "Ort": "Zeulenroda",
+        "Bundesland": "Thüringen",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZW",
+        "Ort": "Zweibrücken",
+        "Bundesland": "Rheinland-Pfalz",
+        "Speziell": null
+    },
+    {
+        "Kuerzel": "ZZ",
+        "Ort": "Zeitz",
+        "Bundesland": "Sachsen-Anhalt",
+        "Speziell": null
+    }
+]
