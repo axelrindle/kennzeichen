@@ -95,20 +95,12 @@ jobs:
       - name: Get SHA1 fingerprint
         shell: bash
         run: |
-          keytool -list -v \
-              -keystore "keystore.jks" \
-              -alias "${{ secrets.SIGNING_KEY_ALIAS }}" \
-              -storepass "${{ secrets.SIGNING_KEY_PASSWORD }}" \
-              -keypass "${{ secrets.SIGNING_STORE_PASSWORD }}" |\
-            grep SHA1 |\
-            cut -d: -f2- |\
-            xargs
           FINGERPRINT=$(
             keytool -list -v \
               -keystore "keystore.jks" \
               -alias "${{ secrets.SIGNING_KEY_ALIAS }}" \
-              -storepass "${{ secrets.SIGNING_KEY_PASSWORD }}" \
-              -keypass "${{ secrets.SIGNING_STORE_PASSWORD }}" |\
+              -storepass "${{ secrets.SIGNING_STORE_PASSWORD }}" \
+              -keypass "${{ secrets.SIGNING_KEY_PASSWORD }}" |\
             grep SHA1 |\
             cut -d: -f2- |\
             xargs
