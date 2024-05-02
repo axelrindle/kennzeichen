@@ -1,13 +1,16 @@
 import 'dart:async';
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:http/http.dart';
 import 'package:kennzeichen/cache.dart';
 import 'package:kennzeichen/database/model.dart';
 import 'package:kennzeichen/database/model/gefunden.dart';
 import 'package:kennzeichen/database/model/kennzeichen.dart';
+import 'package:kennzeichen/main.dart';
 
 class KennzeichenInfo extends StatefulWidget {
 
@@ -39,11 +42,24 @@ class _State extends State<KennzeichenInfo> {
       }
     }
 
+    final apiKey = dotenv.get("GOOGLE_MAPS_APIKEY");
     final url = Uri.parse(
-        "https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyAGyG_BIFmRRGAcZh4pQBEyYr2wSHTqXMw&address=${Uri.encodeComponent(query)}&language=de"
+        "https://maps.googleapis.com/maps/api/geocode/json?key=$apiKey&address=${Uri.encodeComponent(query)}&language=de"
     );
 
-    final response = await get(url);
+    Map<String, String> headers = {};
+    if (Platform.isAndroid) {
+      headers = {
+        "X-Android-Package": MyApp.get().platform.packageName,
+        "X-Android-Cert": dotenv.get("SHA1_FINGERPRINT").replaceAll(":", ""),
+      };
+    } else if (Platform.isIOS) {
+      headers = {
+        "X-Ios-Bundle-Identifier": MyApp.get().platform.packageName,
+      };
+    }
+
+    final response = await get(url, headers: headers);
 
     if (response.statusCode == 200) {
       final data = jsonDecode(response.body) as Map<String, dynamic>;
@@ -174,6 +190,12 @@ class _State extends State<KennzeichenInfo> {
                     )},
                   ),
                 );
+              }
+
+              if (snapshot.hasError) {
+                print(snapshot.error);
+                return Text(snapshot.error.toString(),
+                  style: const TextStyle(color: Colors.red));
               }
 
               return const LinearProgressIndicator();

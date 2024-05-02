@@ -72,10 +72,46 @@ jobs:
           flutter-version: ${{ env.FLUTTER_VERSION }}
           cache: true
 
+      - name: Create keystore
+        run: |
+          echo "${{ secrets.KEYSTORE }}" | base64 -d | tee keystore.jks >/dev/null
+
+      - name: Create key.properties
+        run: |
+          tee android/key.properties >/dev/null <<EOL
+          storeFile=../../keystore.jks
+          storePassword=${{ secrets.SIGNING_STORE_PASSWORD }}
+          keyPassword=${{ secrets.SIGNING_KEY_PASSWORD }}
+          keyAlias=${{ secrets.SIGNING_KEY_ALIAS }}
+          EOL
+
       - uses: actions/download-artifact@v4
         with:
           name: scraped
-          path: assets/raw
+
+      - name: Move data file
+        run: cp data-scraper/data/raw.json assets/raw/
+
+      - name: Get SHA1 fingerprint
+        run: |
+          SHA1=$(
+            keytool -list -v \
+              -keystore keystore.jks \
+              -alias ${{ secrets.SIGNING_KEY_ALIAS }} \
+              -storepass ${{ secrets.SIGNING_KEY_PASSWORD }} \
+              -keypass ${{ secrets.SIGNING_STORE_PASSWORD }} |\
+            grep SHA1 |\
+            cut -d: -f2- |\
+            xargs
+          )
+          echo "SHA1_FINGERPRINT=$SHA1" >> "$GITHUB_ENV"
+
+      - name: Create .env file
+        run: |
+          tee .env <<-EOL
+          GOOGLE_MAPS_APIKEY=${GOOGLE_MAPS_APIKEY}
+          SHA1_FINGERPRINT=${SHA1_FINGERPRINT}
+          EOL
 
       - name: Build debug apk
         run: flutter build apk --debug
