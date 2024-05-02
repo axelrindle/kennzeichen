@@ -96,10 +96,10 @@ jobs:
         run: |
           SHA1=$(
             keytool -list -v \
-              -keystore keystore.jks \
-              -alias ${{ secrets.SIGNING_KEY_ALIAS }} \
-              -storepass ${{ secrets.SIGNING_KEY_PASSWORD }} \
-              -keypass ${{ secrets.SIGNING_STORE_PASSWORD }} |\
+              -keystore "keystore.jks" \
+              -alias "${{ secrets.SIGNING_KEY_ALIAS }}" \
+              -storepass "${{ secrets.SIGNING_KEY_PASSWORD }}" \
+              -keypass "${{ secrets.SIGNING_STORE_PASSWORD }}" |\
             grep SHA1 |\
             cut -d: -f2- |\
             xargs
@@ -110,7 +110,7 @@ jobs:
         run: |
           tee .env <<-EOL
           GOOGLE_MAPS_APIKEY=${{ secrets.GOOGLE_MAPS_APIKEY }}
-          SHA1_FINGERPRINT=${{ env.SHA1_FINGERPRINT }}
+          SHA1_FINGERPRINT=$SHA1_FINGERPRINT
           EOL
 
       - name: Build debug apk
