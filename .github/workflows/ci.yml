@@ -93,8 +93,9 @@ jobs:
         run: cp data-scraper/data/raw.json assets/raw/
 
       - name: Get SHA1 fingerprint
+        shell: bash
         run: |
-          SHA1=$(
+          FINGERPRINT=$(
             keytool -list -v \
               -keystore "keystore.jks" \
               -alias "${{ secrets.SIGNING_KEY_ALIAS }}" \
@@ -104,7 +105,7 @@ jobs:
             cut -d: -f2- |\
             xargs
           )
-          echo "SHA1_FINGERPRINT=$SHA1" >> "$GITHUB_ENV"
+          echo "SHA1_FINGERPRINT=$FINGERPRINT" >> "$GITHUB_ENV"
 
       - name: Create .env file
         run: |
